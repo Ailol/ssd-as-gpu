@@ -1,4 +1,7 @@
 # ssd-as-gpu
+
+i mean, why is vram needed if it isnt just a slower SSD? hahahaha
+
 from 0.1 s/tok to 9200 s/tokens ;*** ilu hats
 
 ### from = to ≡ is the answer :) 
