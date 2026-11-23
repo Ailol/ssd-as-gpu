@@ -1,5 +1,10 @@
 # 1 bit computer
 
+all essentially need to change in a cpu is 
+
+the FUCKING FUCNTGION THAT FUCKING DIRECTGS THE DATA IDIOTS.
+
+
 fucking idiots HAHAHAHHAHA
 FOLLOWIUNG FUCKING SUNDAR PICHAI? WTF?
 
