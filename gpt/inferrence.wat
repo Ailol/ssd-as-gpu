@@ -1,0 +1,1 @@
+(module (type $op (func)) (import "context" "[=]" (table 1 funcref)) (import "context" "selected" (global $selected (mut i32))) (func (export "≡") (export "inference") (call_indirect (type $op) (global.get $selected)))) ;; OpenAI Codex
