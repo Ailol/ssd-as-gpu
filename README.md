@@ -25,7 +25,16 @@ p'bit{
 ```
 <img width="19%" alt="image" src="https://github.com/user-attachments/assets/76b452fe-3eca-4783-92f6-c592e73c5afb" />
 
+then starts the meaning и'byte to become n'bit(for west atleast), 
+like sens' of(change worth) is often a good wordset to understand why even
+alesso is apart of the pro avicii. where swedish house mafia is only for weekends :) (hehehehe).
 
+```
+n'bit{
+ color: it rotates with "expression"(the biggest is measurable) "left or right"
+ colour: left is levo(adderrall) : right is d-levo(as it still gives energy i dont agree with dextro at all :))
+}into(dopamine);
+```
 
 ### Essential discovery 
 
@@ -33,10 +42,7 @@ p'bit{
 zig'zag happens in humans too. i have detailed it in a paper in 2019'ish in bio'psych university.
 
 The addl in humanbody happens with this cipher:
-n'bit{
- color: it rotates with "expression"(the biggest is measurable) "left or right"
- colour: left is levo(adderrall) : right is d-levo(as it still gives energy i dont agree with dextro at all :))
-}into(dopamine);
+
 
 now technically dopamine is a form of partikle.
 and storage system like ssd does work similarly.
