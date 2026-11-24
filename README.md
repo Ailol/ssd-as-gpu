@@ -1,4 +1,12 @@
 # ssd-as-gpu ' cipher of all time ♡
+
+```
+и'bit {
+ + : gram positive bacteria :)
+ - : program positive bacteria :)
+}into(prgam.language is flavour to protect own self);
+```
+
 Essentially my discovery is
 
 ```
