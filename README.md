@@ -1,4 +1,19 @@
 # ssd-as-gpu ' cipher of all time ♡
+a qck.cipher on the whole ordeal
+
+```
+
+lets set a qck. note like this
+
+p'bit{
+  = - sets direction
+   - kreativ sets the linez(usable) 
+  ≡ needs direction
+}into(creative tool);
+```
+<img width="25%" alt="image" src="https://github.com/user-attachments/assets/a99524c5-9304-4120-be30-d9dc62e6fb6e" />
+
+
 
 ```
 и'bit {
