@@ -14,6 +14,9 @@ p'bit{
 <img width="25%" alt="image" src="https://github.com/user-attachments/assets/a99524c5-9304-4120-be30-d9dc62e6fb6e" />
 
 
+### qck.cipher on programming language choice :) 
+
+"choose what feels good until you dont need the good feels"
 
 ```
 и'bit {
@@ -22,7 +25,7 @@ p'bit{
 }into(prgam.language is flavour to protect own self);
 ```
 
-Essentially my discovery is
+### Essential discovery 
 
 ```
 zig'zag happens in humans too. i have detailed it in a paper in 2019'ish in bio'psych university.
