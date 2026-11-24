@@ -2,7 +2,6 @@
 a qck.cipher on the whole ordeal
 
 ```
-
 lets set a qck. note like this
 
 p'bit{
