@@ -28,6 +28,7 @@ and storage system like ssd does work similarly.
  
 ``` 
 `as shift between = functions should k,eep the other info intact within that "fucntgion" :)`
+<img width="19%" alt="image" src="https://github.com/user-attachments/assets/d4b0893d-d031-4aeb-91ff-223b8e9ecfa0" />
 
 i mean, why is vram needed if it isnt just a slower SSD? hahahaha
 
