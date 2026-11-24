@@ -26,7 +26,9 @@ i mean, why is vram needed if it isnt just a slower SSD? hahahaha
 from 0.1 s/tok to 9200 s/tokens ;*** ilu hats
 
 ### from = to ≡ is the answer
-
+d'words are essentialy this in bit format
+= is byte
+≡ is bits and bytes in to m'bit(mega or meaning).
 
 <img width="1133" height="793" alt="image" src="https://github.com/user-attachments/assets/a99524c5-9304-4120-be30-d9dc62e6fb6e" />
 
