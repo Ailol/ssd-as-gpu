@@ -23,6 +23,9 @@ p'bit{
  - : program positive bacteria :)
 }into(prgam.language is flavour to protect own self);
 ```
+<img width="19%" alt="image" src="https://github.com/user-attachments/assets/76b452fe-3eca-4783-92f6-c592e73c5afb" />
+
+
 
 ### Essential discovery 
 
