@@ -5,8 +5,13 @@
 # ssd-as-gpu ' cipher of all time ♡
 a qck.cipher on the whole ordeal
 
+
+
 ```
 lets set a qck. note like this
+
+the reverse chinese modulum theorem is a great way of envisioning this change :)
+≡
 
 p'bit{
   = - sets direction
